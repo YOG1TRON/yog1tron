@@ -15,5 +15,5 @@ git commit
 ### Y0G1-TR0N 🐶: "Ready to assist Detective Le"
 
 > "I'm Y0G1-TR0N--Detective Le's **✨loyal data-dog companion✨.** \
-> My codes sniff out the clues🗝️ that **🕵🏻‍♀️ Detective Le** can use in her **_🔍 master accusations._** Together we defy culprits of disease!" (_*bark-bark*_)
+> My codes sniff out the clues🗝️ that **🕵🏻‍♀️ Detective Le** can use in her **_🔍 master accusations._** Together we defy culprits of disease!" (_*braff-braff*_)
     
